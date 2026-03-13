@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sourav Kumar</h1>
+<h1 align="center">Hi , I'm Sourav Kumar</h1>
 <h3 align="center">BCA Final Year Student | Data Science & AI Enthusiast | Python Developer</h3>
 
 <p align="center">
