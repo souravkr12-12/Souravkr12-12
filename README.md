@@ -107,10 +107,11 @@ I am a **BCA Final Year student** with a strong interest in **Data Science and A
 
 ## 💼 Experience
 
-### 🏢 Data Science Intern — Evoastra Venture Inc *(Feb 2026 – Present)*
-- Working on a group data science project involving data analysis and ML
-- Collaborating with team members to build data-driven solutions
-- Applying Python, data analysis, and ML techniques to solve practical problems
+### 🏢 Data Science Intern — Techtern Pvt Ltd *(Mar 2026 – Present)*
+- Working with Python (Pandas, NumPy) to perform data cleaning and preprocessing on datasets.
+- Creating data visualizations and insights using libraries like Matplotlib / Seaborn.
+- Assisting in building and evaluating basic machine learning models for data analysis tasks.
+
 
 ### 🌐 Web Development Intern — ApexPlanet Software Pvt Ltd *(Oct 2025 – Nov 2025)*
 - Developed responsive web pages using HTML, CSS, and JavaScript
@@ -137,19 +138,6 @@ I am a **BCA Final Year student** with a strong interest in **Data Science and A
 - ⚡ **JavaScript for Beginners** — Simplilearn
 - 🤖 **Machine Learning Workshop** — Innomatics Research Labs
 - 🔧 **AI Tools & Automation Workshop** — College Level (n8n & Docker)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravkr12-12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravkr12-12&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravkr12-12&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
 
 ---
 
